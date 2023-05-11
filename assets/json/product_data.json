@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Iphone 14 Pro",
+    "image": "https://www.citypng.com/public/uploads/preview/iphone-14-pro-and-max-deep-purple-png-11662587434zacaxkb4sd.png",
+    "quantity": 50
+  },
+  {
+    "id": 2,
+    "name": "Samsung Fold 4",
+    "image": "https://www.reviews.org/app/uploads/2022/08/fold4greengrey-copy-300x300.png",
+    "quantity": 50
+  },
+  {
+    "id": 3,
+    "name": "Samsung Watch 4",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398879-sm-r870nzkainu-481111391?$650_519_PNG$",
+
+    "quantity": 50
+  },
+  {
+    "id": 4,
+    "name": "Hitachi AC",
+    "image": "https://img.favpng.com/8/21/18/hitachi-lg-electronics-air-conditioning-png-favpng-4vcTxEPkNUZdpKGi65iVpy6ny.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 5,
+    "name": "Apple Airpods Pro",
+    "image": "https://www.apple.com/newsroom/images/product/airpods/standard/Apple_AirPods-3rd-gen_hero_10182021.jpg.landing-big_2x.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 6,
+    "name": "Samsung Fridge",
+    "image": "https://e7.pngegg.com/pngimages/419/532/png-clipart-samsung-family-hub-rf56m9540-internet-refrigerator-samsung-rf28m9580s-samsung-kitchen-appliance-home-appliance.png",
+    "quantity": 50
+  },
+  {
+    "id": 7,
+    "name": "Sony Bravia",
+    "image": "https://e7.pngegg.com/pngimages/261/986/png-clipart-bravia-led-backlit-lcd-high-definition-television-smart-tv-1080p-sony-television-landscape.png",
+    "quantity": 50
+  },
+  {
+    "id": 8,
+    "name": "JBL Box Speaker",
+    "image": "https://e7.pngegg.com/pngimages/403/987/png-clipart-jbl-boombox-loudspeaker-wireless-speaker-audio-boombox-electronics-electronic-device.png",
+    "quantity": 50
+  } ,
+  {
+    "id": 9,
+    "name": "Macbook Pro",
+    "image": "https://itronics.in/wp-content/uploads/2022/06/mbp-silver-gallery1-202206.jpg",
+    "quantity": 50
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch 8",
+    "image": "https://ivenus.in/wp-content/uploads/2022/09/MKU83_VW_34FRwatch-41-alum-midnight-nc-8s_VW_34FR_WF_CO_GEO_IN.png",
+    "quantity": 50
+  }
+]
